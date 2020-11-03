@@ -1,0 +1,487 @@
+Choice		Action
+------		------
+A		Inorder Print
+B		Preorder Print
+C		Postorder Print
+D		Tree Minimum
+E		Tree Maximum
+F		Tree Predecessor
+G		Tree Successor
+H		Tree Search
+I		Tree Insert
+J		Right Rotation
+K		Left Rotation
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+Please enter a project name to find its predecessor:
+Tax Administration does not have any predecessor
+What action would you like to perform?
+Please enter a project name to find its successor:
+Statistical System does not have any successor
+What action would you like to perform?
+Please enter a project name to search:
+Employment Support not found
+What action would you like to perform?
+Please enter a projectName to right-rotate:
+Right Rotation cannot be performed around Urban Development
+What action would you like to perform?
+Please enter a projectName to left-rotate:
+Left Rotation cannot be performed around Solar Energy
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Real Estate Registration Project - Additional Financing with its region/cost: Europe and Central Asia/2400000 inserted
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Employment Support Project with its region/cost: Europe and Central Asia/100000000 inserted
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Inclusive Access and Quality Education project with its region/cost: East Asia and Pacific/180000000 inserted
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Tax Administration and Statistical System Modernization Project with its region/cost: Europe and Central Asia/35000000 inserted
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Solar Energy in Local Communities with its region/cost: Africa/102000000 inserted
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Maldives Urban Development and Resilience Project with its region/cost: South Asia/16500000 inserted
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Bolivia Urban Resilience with its region/cost: Latin America and Caribbean/7000000 inserted
+What action would you like to perform?
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+
+What action would you like to perform?
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+
+What action would you like to perform?
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+
+What action would you like to perform?
+Please enter a project name to find its predecessor:
+The predecessor of Tax Administration and Statistical System Modernization Project is Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+
+What action would you like to perform?
+Please enter a project name to find its successor:
+The successor of Maldives Urban Development and Resilience Project is Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+
+What action would you like to perform?
+The first project is Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+
+What action would you like to perform?
+The last project is Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+
+What action would you like to perform?
+Please enter a project name to search:
+Solar Energy in Local Communities has its region/cost: Africa/102000000
+What action would you like to perform?
+Please enter a project name to search:
+Water Energy in Local Communities not found
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Additional Financing for Irrigation and Land Market Development Project with its region/cost: Europe and Central Asia/20430000 inserted
+What action would you like to perform?
+Please enter a projectName/region/cost to insert:
+Enter a project name
+Enter its region
+Enter its cost
+Integration of Social Accountability into National and Subnational Systems with its region/cost: East Asia and Pacific/1720000 inserted
+What action would you like to perform?
+Please enter a projectName to right-rotate:
+Right Rotation around Real Estate Registration Project - Additional Financing is successful
+What action would you like to perform?
+Please enter a projectName to right-rotate:
+Right Rotation cannot be performed around Inclusive Access and Quality Education project
+What action would you like to perform?
+
+Project Name: Additional Financing for Irrigation and Land Market Development Project
+Region: Europe and Central Asia
+Cost: 20430000
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Integration of Social Accountability into National and Subnational Systems
+Region: East Asia and Pacific
+Cost: 1720000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+
+What action would you like to perform?
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Additional Financing for Irrigation and Land Market Development Project
+Region: Europe and Central Asia
+Cost: 20430000
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Integration of Social Accountability into National and Subnational Systems
+Region: East Asia and Pacific
+Cost: 1720000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+
+What action would you like to perform?
+
+Project Name: Additional Financing for Irrigation and Land Market Development Project
+Region: Europe and Central Asia
+Cost: 20430000
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Integration of Social Accountability into National and Subnational Systems
+Region: East Asia and Pacific
+Cost: 1720000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+
+What action would you like to perform?
+Please enter a projectName to left-rotate:
+Left Rotation around Inclusive Access and Quality Education project is successful
+What action would you like to perform?
+
+Project Name: Additional Financing for Irrigation and Land Market Development Project
+Region: Europe and Central Asia
+Cost: 20430000
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Integration of Social Accountability into National and Subnational Systems
+Region: East Asia and Pacific
+Cost: 1720000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+
+What action would you like to perform?
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Additional Financing for Irrigation and Land Market Development Project
+Region: Europe and Central Asia
+Cost: 20430000
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Integration of Social Accountability into National and Subnational Systems
+Region: East Asia and Pacific
+Cost: 1720000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+
+What action would you like to perform?
+
+Project Name: Additional Financing for Irrigation and Land Market Development Project
+Region: Europe and Central Asia
+Cost: 20430000
+
+Project Name: Bolivia Urban Resilience
+Region: Latin America and Caribbean
+Cost: 7000000
+
+Project Name: Integration of Social Accountability into National and Subnational Systems
+Region: East Asia and Pacific
+Cost: 1720000
+
+Project Name: Inclusive Access and Quality Education project
+Region: East Asia and Pacific
+Cost: 180000000
+
+Project Name: Maldives Urban Development and Resilience Project
+Region: South Asia
+Cost: 16500000
+
+Project Name: Solar Energy in Local Communities
+Region: Africa
+Cost: 102000000
+
+Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+Project Name: Real Estate Registration Project - Additional Financing
+Region: Europe and Central Asia
+Cost: 2400000
+
+Project Name: Employment Support Project
+Region: Europe and Central Asia
+Cost: 100000000
+
+
+What action would you like to perform?
+Please enter a project name to find its predecessor:
+Additional Financing for Irrigation and Land Market Development Project does not have any predecessor
+What action would you like to perform?
+Please enter a project name to find its successor:
+The successor of Solar Energy in Local Communities is Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+
+What action would you like to perform?
+The first project is Project Name: Additional Financing for Irrigation and Land Market Development Project
+Region: Europe and Central Asia
+Cost: 20430000
+
+
+What action would you like to perform?
+The last project is Project Name: Tax Administration and Statistical System Modernization Project
+Region: Europe and Central Asia
+Cost: 35000000
+
+
+What action would you like to perform?
+The number of nodes deleted: 9
