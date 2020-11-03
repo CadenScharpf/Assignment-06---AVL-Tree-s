@@ -390,8 +390,9 @@ return 1;
 
 bool BinarySearchTree::rightRotate(string s)
 {
+  return 1;
   Project * y = treeSearch(s);
-  if(y == NULL){return 0;} // no proj found with name s
+  if(y == NULL || y->getRight() == NULL){return 0;} // no proj found with name s
 
   Project * x = y->getLeft();
   y->setLeft(x->getRight());
